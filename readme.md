@@ -46,3 +46,13 @@ mkdir my_directory
 ```bash
 rm file.txt
 ```
+
+## Command 6: `cp`
+
+- **Description:** Copy files and directories.
+- **Options:**
+  * -r: Copy directories recursively.
+- **Usage:**
+```bash
+cp file.txt
+```
