@@ -96,3 +96,11 @@ git log
 ```bash
 git status
 ```
+
+## Command 12: `git add`
+
+- **Description:** add a file as it looks now to your next commit (stage)
+- **Usage:**
+```bash
+git add [fille]
+```
