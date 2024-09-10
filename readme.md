@@ -110,5 +110,13 @@ git add [fille]
 - **Description:** unstage a file while retaining the changes in working directory
 - **Usage:**
 ```bash
-git reset [fille]
+git reset [file]
+```
+
+## Command 14: `git diff`
+
+- **Description:** diff of what is changed but not staged
+- **Usage:**
+```bash
+git diff
 ```
