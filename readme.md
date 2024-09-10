@@ -35,3 +35,14 @@ pwd
 ```bash
 mkdir my_directory
 ```
+
+## Command 5: `rm`
+
+- **Description:** Remove files and directories.
+- **Options:**
+  * -r: Remove directories recursively.
+  * -f: Force removal without confirmation.
+- **Usage:**
+```bash
+rm file.txt
+```
