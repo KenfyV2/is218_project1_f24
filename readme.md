@@ -56,3 +56,11 @@ rm file.txt
 ```bash
 cp file.txt
 ```
+
+## Command 7: `mv`
+
+- **Description:** Move/rename files and directories.
+- **Usage:**
+```bash
+mv file.txt directory 
+```
