@@ -104,3 +104,11 @@ git status
 ```bash
 git add [fille]
 ```
+
+## Command 13: `git reset`
+
+- **Description:** unstage a file while retaining the changes in working directory
+- **Usage:**
+```bash
+git reset [fille]
+```
