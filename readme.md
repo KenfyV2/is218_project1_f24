@@ -64,3 +64,11 @@ cp file.txt
 ```bash
 mv file.txt directory 
 ```
+
+## Command 8: `touch`
+
+- **Description:** Create an empty file or update file timestamps.
+- **Usage:**
+```bash
+touch file.txt
+```
