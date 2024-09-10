@@ -120,3 +120,11 @@ git reset [file]
 ```bash
 git diff
 ```
+
+## Command 15: `git commit`
+
+- **Description:** commit your staged content as a new commit snapshot
+- **Usage:**
+```bash
+git commit -m “[descriptive message]”
+```
