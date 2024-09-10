@@ -88,3 +88,11 @@ cat file.txt
 ```bash
 git log
 ```
+
+## Command 11: `git status`
+
+- **Description:** show modified files in working directory, staged for your next commit
+- **Usage:**
+```bash
+git status
+```
