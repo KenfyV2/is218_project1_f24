@@ -72,3 +72,11 @@ mv file.txt directory
 ```bash
 touch file.txt
 ```
+
+## Command 9: `cat`
+
+- **Description:** View the contents of a file.
+- **Usage:**
+```bash
+cat file.txt
+```
