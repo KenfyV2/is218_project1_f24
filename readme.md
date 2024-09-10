@@ -11,3 +11,11 @@
 ```bash
 ls
 ```
+
+## Command 2: `cd`
+
+- **Description:** Change directory.
+- **Usage:**
+```bash
+cd /path/to/directory
+```
