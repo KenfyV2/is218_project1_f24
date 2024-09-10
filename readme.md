@@ -80,3 +80,11 @@ touch file.txt
 ```bash
 cat file.txt
 ```
+
+## Command 10: `git log`
+
+- **Description:** show the commit history for the currently active branch
+- **Usage:**
+```bash
+git log
+```
